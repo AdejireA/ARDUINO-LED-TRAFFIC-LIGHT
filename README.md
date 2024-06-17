@@ -13,8 +13,6 @@ This Arduino sketch simulates traffic lights using three LEDs: red, yellow, and 
 ## Circuit Diagram
 A schematic diagram showing how the components are connected is included.
 
-[Insert your circuit diagram here]
-
 ## Installation
 1. Connect the components according to the circuit diagram.
 2. Upload the Arduino sketch (`traffic_light.ino`) to your Arduino board.
